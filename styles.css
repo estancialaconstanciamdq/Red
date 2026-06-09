@@ -600,8 +600,6 @@ li {
   }
 }
 
-:::writing{variant="document" id="61524"}
-```css
 .map-section {
   position: relative;
   padding: 2rem 2rem;
@@ -769,4 +767,19 @@ li {
 
 .visitas h3 {
    font-family: 'Cormorant Garamond', serif;
+}
+
+@media (max-width:768px){
+
+  .column{
+      width:100% !important;
+      max-width:100% !important;
+      flex:0 0 100% !important;
+  }
+
+  .admin-photo{
+      width:160px;
+      height:160px;
+  }
+
 }
