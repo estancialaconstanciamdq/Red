@@ -10,12 +10,12 @@ page-layout: full
 
 <img src="logo_la_constancia.svg" class="hero-logo">
 
-# Visitas Educativas
+# Red de Empresas
 
 ### Arboretum de Estancia La Constancia
 
 <div class="hero-subtitle">
-Educación Ambiental · Biodiversidad · Aprendizaje en Terreno
+Un espacio donde las empresas trascienden, generando impacto real en naturaleza, comunidad y bienestar.
 </div>
 
 </div>
@@ -25,146 +25,118 @@ Educación Ambiental · Biodiversidad · Aprendizaje en Terreno
 
 ::: {.lead-text}
 
-El Arboretum de Estancia La Constancia abre sus puertas a instituciones educativas, docentes y grupos escolares interesados en aprender directamente en contacto con la naturaleza.  
+La Red de Empresas del Jardín Botánico de Mar del Plata invita a organizaciones visionarias a formar parte de un proyecto único que integra naturaleza, bienestar, educación y comunidad.
 
-A través de recorridos guiados, actividades prácticas y observación ecológica, promovemos una comprensión viva de la biodiversidad y los ecosistemas locales.
+Sumarse es contribuir a la construcción de un legado que trasciende generaciones, impulsando la conservación ambiental y creando un espacio donde empresas, personas y naturaleza crecen juntas.
 
 :::
 
 ---
 
-## Experiencias Educativas
+## La Red de Empresas
 
 ::: {.panel-tabset}
 
-### 🌿 Recorrido Botánico Guiado
+### 🌿 ¿Por qué sumarte?
 
-- Los alumnos reconocen hierbas, arbustos y árboles, en un entorno único y seguro con programas diseñados por nivel y tema.
-- ¿Aves o pájaros? ¿Animales vertebrados o invertebrados? Preguntas que serán
-respondidas a través de la observación y el juego, despertando el interés que continuará en el aula.
-- Interpretación de ecosistemas locales  
-- Observación de interacciones ecológicas  
+- Formar parte del primer Jardín Botánico de Mar del Plata, un espacio donde naturaleza, comunidad y empresas generan impacto real.
+- Asociar tu organización a valores de sostenibilidad, innovación y futuro.
+- Integrarte a una red empresarial con propósito.
 
-<!-- ### 📊 Ciencia y Naturaleza -->
+### 📊 Beneficios
 
-<!-- - Registro de biodiversidad en campo   -->
-<!-- - Introducción a la ciencia ciudadana   -->
-<!-- - Uso básico de herramientas de observación   -->
-<!-- - Actividades de clasificación de especies  -->
-<!-- - Conexión con la naturaleza: Fomentamos el respeto y el cuidado por el Ambiente a través de la reflexión y el juego. -->
+- Presencia en redes sociales y materiales institucionales. 
+-	Networking empresarial. 
+-	Encuentros sobre sostenibilidad y triple impacto. 
+-	Actividades de bienestar en la naturaleza. 
+-	Jornadas de voluntariado corporativo. 
 
-### 🌿 Beneficios
-- Los estudiantes adquirirán conocimientos de biología, ecología y geografía de manera dinámica y entretenida.
-- Fomentamos el trabajo entre compañeros, despertamos la curiosidad y el pensamiento crítico en un entorno natural.
-- Exploración y aprendizaje al aire libre con programas co-creados con la institución.
-- Caminatas guiadas, observación de flora, actividades interactivas, todo creado para despertar la curiosidad y el amor por el ambiente.
+### 🥾 Cómo participar
 
-### 🥾 Aprendizaje en Senderos
-
-- Actividades adaptadas por nivel educativo
-- Recorridos guiados: Acompañados por profesionales especializados que adaptan las explicaciones a la edad y nivel de los estudiantes.
-- Exploración de ecosistemas locales: Reconocimiento de especies arbóreas y análisis de flora y fauna nativas y exóticas.
-- Actividades prácticas y divertidas: Identificación de especies de plantas y árboles, la reproducción de las especies, la observación de aves (residentes y migratorias), la recolección de muestras para laboratorio, trabajo en equipo, ¡y mucho más!
-
-
+- Sponsoreo de proyectos del Jardín Botánico.
+- Aportes en especie o colaboración institucional.
+- Membresía anual desde USD 500.
 :::
 
 ---
 
-## Visitas Escolares
+## Proyectos
 
-<!-- ::: {.columns} -->
-
-<!-- ::: {.column width="100%"} -->
-
-<!-- ::: {.program-card} -->
-
-**Duración:** 3/4 horas  
-**Nivel:** Primaria / Secundaria  
-**Cantidad mínima de alumnos:** 30 alumnos
-
-Diseñadas para complementar contenidos curriculares en ciencias naturales, biología y educación ambiental.
+- 🌿 Señalética educativa
+- 🌿 Senderos interpretativos
+- 🌿 Bancos y espacios de descanso
+- 🌿 Identificación de especies
+- 🌿 Baños ecológicos e inclusivos
 
 
-## Contenidos de las Visitas
+## **Coordinación de la Red de Empresas**
 
-Cada recorrido se adapta al nivel educativo y a los objetivos pedagógicos de la institución, integrando actividades de observación, exploración y aprendizaje en contacto directo con la naturaleza.
+::: {.columns}
 
-### 🌳 Algunos de los temas que abordamos
+::: {.column width="50%"}
 
-* **Historia y transformación del paisaje:** cómo un antiguo potrero se convirtió en un arboretum de 33 hectáreas con más de 30.000 plantas.
-* **Biodiversidad y conservación:** reconocimiento de especies nativas y exóticas, y el rol de los jardines botánicos y arboretos en la protección de la flora.
-* **Ecología y funcionamiento de los ecosistemas:** relaciones entre plantas, animales y ambiente.
-* **Botánica en acción:** observación de hojas, flores, semillas, cortezas y otras estructuras vegetales para comprender cómo los científicos identifican y estudian las especies.
-* **Educación ambiental y sostenibilidad:** reflexión sobre el cuidado del ambiente, la restauración ecológica y la importancia de las acciones individuales y colectivas.
-* **Exploración sensorial de la naturaleza:** actividades para descubrir los sonidos, colores, formas y aromas del jardín mediante propuestas lúdicas y participativas.
+![](Magda.jpg){.admin-photo}
 
-### 👩🏻‍🏫 Metodología
+### Magdalena
 
-Las visitas combinan caminatas guiadas, observación científica, juegos educativos, trabajo en equipo y espacios de reflexión, promoviendo la curiosidad, el pensamiento crítico y el vínculo con la naturaleza.
+🔗 [LinkedIn](https://www.linkedin.com/in/magdalenazurita/?locale=en)
 
+Responsable de la coordinación institucional, programas educativos y conservación.
 
+:::
 
-<!-- <a href="https://TU-LINK-PRIMARIA.com" target="_blank" class="program-button"> -->
-<!--   Programa Primaria -->
-<!-- </a> -->
+::: {.column width="50%"}
 
-<!-- <a href="https://TU-LINK-SECUNDARIA.com" target="_blank" class="program-button"> -->
-<!--   Programa Secundaria -->
-<!-- </a> -->
-Descarga los programas tentativos:
+![](Juan.jpg){.admin-photo}
 
-<div class="button-group">
+### Juan Ignacio
 
-  <a href="https://drive.google.com/file/d/19wJLzPF0y2cGcbcleYGGqqQfquEImo-8/view?usp=sharing">
-    Programa Primaria
-  </a>
-
-  <a href="https://drive.google.com/file/d/15N2feTXPWUFBhSsXKI50gUgWbZRjfpLM/view?usp=sharing" target="_blank" class="program-button">
-    Programa Secundaria
-  </a>
-
-</div>
+🔗 [LinkedIn](https://www.linkedin.com/in/juan-ignacio-z-4b345425/)
 
 
----
+Responsable del desarrollo estratégico, vinculación con empresas y comunicación institucional.
 
-<!-- ## El Arboretum -->
+:::
 
-<!-- El recorrido educativo atraviesa distintos sectores del arboretum, permitiendo observar especies nativas, dinámicas ecológicas y ambientes representativos del paisaje local. -->
+:::
 
+## Cómo sumarte a la Red
 
-## Información General
-
-### 🌿 Visitas Educativas
-
-- Las visitas educativas se realizan únicamente con **reserva previa**, con el fin de garantizar una adecuada organización logística y la mejor experiencia para cada grupo.
-- Al momento de la coordinación se establecerán **dos fechas**: una principal y una alternativa por lluvia.
-- La reserva se efectúa con el **pago de la seña correspondiente**.
-- Nuestro equipo se pondrá en contacto para coordinar objetivos y organización.
-
-### 🌳 Cómo solicitar una visita
-
-- Enviar solicitud de reserva  
-- Coordinación de objetivos pedagógicos  
-- Confirmación de fecha y grupo  
-- Desarrollo de la visita guiada
+Completa el formulario expresando tu interés y nuestro equipo se pondrá en contacto contigo.
 
 
-<!-- <br> -->
+<br>
 
 ::: {.cta-container}
-<a href="https://forms.gle/a7vfNhF14bQMZkiw5" target="_blank" class="cta-button">
-Solicitar Visita Educativa
+<a href="https://LINK-A-TU-FORMULARIO.com" target="_blank" class="cta-button">
+Expresar interés
 </a>
 :::
 
----
+
+
+## Empresas Fundadoras de la Red
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+![](Somos.jpeg){width="180px"}
+
+
+:::
+
+:::
+
+
 
 ## Contacto y Ubicación
 
 **Correo:** laconstanciaargentina@gmail.com  
-**Ubicación:** Arboretum de Estancia La Constancia, Camino 515, Mar del Plata, Argentina
+
+📍 Ubicación  
+Arboretum de Estancia La Constancia  
+Camino 515, Mar del Plata, Argentina
 
 <a href="https://maps.app.goo.gl/jQaTGHeaecL4icSg9"
 target="_blank"
@@ -172,8 +144,4 @@ class="program-button">
 📍 Abrir en Google Maps
 </a>
 
-<br>
 
-::: {.footer-logo}
-![](LogoARBN.jpg){.arboretum-footer-logo}
-:::
